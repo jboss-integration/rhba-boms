@@ -12,7 +12,7 @@ To use the BOM, import into your dependency management:
         <dependencies>
             <dependency>
                <groupId>com.redhat.ba</groupId>
-               <artifactId>bom</artifactId>
+               <artifactId>ba-bom</artifactId>
                <version>7.1.0-SNAPSHOT</version>
                <type>pom</scope>
                <scope>import</scope>

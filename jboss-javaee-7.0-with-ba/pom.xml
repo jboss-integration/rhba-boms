@@ -34,7 +34,7 @@
             </dependency>
             <dependency>
                 <groupId>com.redhat.ba</groupId>
-                <artifactId>bom</artifactId>
+                <artifactId>ba-bom</artifactId>
                 <version>${project.version}</version>
                 <type>pom</type>
                 <scope>import</scope>

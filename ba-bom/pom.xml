@@ -11,7 +11,7 @@
         <version>7.1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>bom</artifactId>
+    <artifactId>ba-bom</artifactId>
 
     <packaging>pom</packaging>
 
