@@ -1,19 +1,19 @@
-RHPAM BOM
+RHBA BOM
 ===================================
 
-This BOM contains all supported Maven artifacts for Red Hat Process Automation Manager.
- 
+This BOM contains all supported Maven artifacts for Red Hat Business Automation.
+
 Usage
 -----
- 
+
 To use the BOM, import into your dependency management:
 
     <dependencyManagement>
         <dependencies>
             <dependency>
-               <groupId>org.jboss.bom</groupId>
-               <artifactId>rhpam-bom</artifactId>
-               <version>7.0.0-SNAPSHOT</version>
+               <groupId>com.redhat.ba</groupId>
+               <artifactId>ba-bom</artifactId>
+               <version>7.1.0-SNAPSHOT</version>
                <type>pom</scope>
                <scope>import</scope>
             </dependency>
