@@ -10,10 +10,10 @@
         <version>7.12.0</version>
     </parent>
 
-    <artifactId>jboss-javaee-8.0-with-ba</artifactId>
+    <artifactId>jboss-jakartaee-8.0-with-ba</artifactId>
     <packaging>pom</packaging>
 
-    <name>JBoss Java EE 8 Specification APIs with Red Hat Business Automation</name>
+    <name>JBoss Jakarta EE 8 Specification APIs with Red Hat Business Automation</name>
     <description>Dependency Management for Java EE 8 Specification APIs with Red Hat Business Automation</description>
 
     <dependencyManagement>

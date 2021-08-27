@@ -12,7 +12,7 @@ To use the BOM, import into your dependency management:
         <dependencies>
             <dependency>
                <groupId>com.redhat.ba</groupId>
-               <artifactId>jboss-javaee-8.0-with-ba</artifactId>
+               <artifactId>jboss-jakartaee-8.0-with-ba</artifactId>
                <version>7.11.0</version>
                <type>pom</scope>
                <scope>import</scope>

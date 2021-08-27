@@ -61,7 +61,7 @@
     <modules>
         <module>ba-bom</module>
         <module>ba-platform-bom</module>
-        <module>jboss-javaee-8.0-with-ba</module>
+        <module>jboss-jakartaee-8.0-with-ba</module>
     </modules>
 
     <repositories>
