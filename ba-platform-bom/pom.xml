@@ -8,7 +8,7 @@
     <parent>
         <groupId>com.redhat.ba</groupId>
         <artifactId>bom-parent</artifactId>
-        <version>7.12.0</version>
+        <version>7.13.0</version>
     </parent>
 
     <artifactId>ba-platform-bom</artifactId>
